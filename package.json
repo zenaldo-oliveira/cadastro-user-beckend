@@ -1,0 +1,21 @@
+{
+  "name": "conceitos-node2.0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Zenaldo Pereira de Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.19.1",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "prisma": "^5.19.1"
+  },
+  "description": ""
+}
