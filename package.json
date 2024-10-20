@@ -2,6 +2,9 @@
   "name": "conceitos-node2.0",
   "version": "1.0.0",
   "type": "module",
+  "engines": {
+    "node": "14.x"
+  },
   "main": "index.js",
   "scripts": {
     "dev": "node --watch server.js",
